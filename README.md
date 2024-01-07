@@ -1,8 +1,5 @@
 ---
-runme:
-  id: 01HKJJPZVWHWXFG0EYT3M23H08
-  version: v2.0
----
+
 
 # fullstack-basic
 
